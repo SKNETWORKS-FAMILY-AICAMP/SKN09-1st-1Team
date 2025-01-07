@@ -1,5 +1,7 @@
 import pymysql
 import pandas as pd
+import streamlit as st
+ 
  
 #DB 연결
 conn = pymysql.connect(
@@ -18,6 +20,7 @@ df = df.loc[:, ~df.columns.get_level_values(1).str.contains('계')]
 df = df.loc[:, ~df.columns.get_level_values(0).str.contains('총계')]
 df = df.loc[df['시군구'].values != '계']
 
+print(df)
 # 엑셀 데이터 처리
 for index, row in df.iterrows():
     # 월별 테이블에 해당 월 데이터가 있는지 확인
@@ -115,5 +118,12 @@ for index, row in df.iterrows():
             print(f"Skipping insertion for {car_type} {race_type} due to missing ID")
 
 conn.commit()
+# ---------------------------------------------- DB에 excel파일의 데이터 삽입
+#----------------------------------------------- DB에서 데이터 조회
+
+
+
+
+
 cur.close()
 conn.close()
