@@ -1,0 +1,2576 @@
+[차량 1]
+CAR_NAME: 아반떼
+CAR_PRICE: 1,964~2,783만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 10.3~15km/ℓ 도심 9.1~13.4, 고속 12.1~17.4
+power: 120~123hp 엔진
+torque: 15.5~15.7kg.m 엔진
+displacement: 1,591~1,598cc
+engine: I4 자연흡기
+drive: FF
+transmission: 자동6단, CVT
+length: 4,710mm
+height: 1,420mm
+width: 1,825mm
+wheelbase: 2,720mm
+
+[차량 2]
+CAR_NAME: 쏘나타
+CAR_PRICE: 2,808~3,917만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.4~13.5km/ℓ 도심 8.2~11.9, 고속 11.5~15.9
+power: 146~290hp 엔진
+torque: 19.5~43kg.m 엔진
+displacement: 1,598~2,497cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동, DCT8단
+length: 4,910mm
+height: 1,445mm
+width: 1,860mm
+wheelbase: 2,840mm
+
+[차량 3]
+CAR_NAME: 그랜저
+CAR_PRICE: 3,711~5,241만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 7.8~11.7km/ℓ 도심 6.7~10, 고속 9.6~14.5
+power: 198~300hp 엔진
+torque: 25.3~36.6kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 자연흡기
+drive: FF, AWD
+transmission: 자동8단
+length: 5,035mm
+height: 1,460mm
+width: 1,880mm
+wheelbase: 2,895mm
+
+[차량 4]
+CAR_NAME: 코나
+CAR_PRICE: 2,409~3,373만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.2~13.6km/ℓ 도심 10~12.6, 고속 13.1~15.5
+power: 149~198hp 엔진
+torque: 18.3~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동8단, CVT
+length: 4,350~4,385mm
+height: 1,580~1,590mm
+width: 1,825mm
+wheelbase: 2,660mm
+
+[차량 5]
+CAR_NAME: 투싼
+CAR_PRICE: 2,729~3,950만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 11.2~14.3km/ℓ 도심 10.1~12.7, 고속 12.7~16.8
+power: 180~184hp 엔진
+torque: 27~42.5kg.m 엔진
+displacement: 1,598~1,998cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: 자동8단, DCT7단
+length: 4,640~4,650mm
+height: 1,665mm
+width: 1,865mm
+wheelbase: 2,755mm
+
+[차량 6]
+CAR_NAME: 싼타페
+CAR_PRICE: 3,492~4,598만원
+CAR_FUEL: 가솔린
+mileage: 복합 9.7~11km/ℓ 도심 8.5~9.6, 고속 11.6~13.4
+power: 281hp 엔진
+torque: 43kg.m 엔진
+displacement: 2,497cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: DCT8단
+length: 4,830mm
+height: 1,720~1,780mm
+width: 1,900mm
+wheelbase: 2,815mm
+
+[차량 7]
+CAR_NAME: 팰리세이드
+CAR_PRICE: 3,837~5,413만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 8.5~12.4km/ℓ 도심 7.6~11.3, 고속 10~14.1
+power: 202~295hp 엔진
+torque: 36.2~45kg.m 엔진
+displacement: 2,199~3,778cc
+engine: V6, I4 자연흡기
+drive: AWD, FF
+transmission: 자동8단
+length: 4,995mm
+height: 1,750mm
+width: 1,975mm
+wheelbase: 2,900mm
+
+[차량 8]
+CAR_NAME: 넥쏘
+CAR_PRICE: 6,950만원
+CAR_FUEL: 전기, 수소
+mileage: 복합 96.2km/kg 도심 99.5, 고속 92.6
+power: 113kW 모터 151hp (단순환산치)
+torque: 395Nm 모터 40.3kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,670mm
+height: 1,630mm
+width: 1,860mm
+wheelbase: 2,790mm
+
+[차량 9]
+CAR_NAME: 아이오닉 5
+CAR_PRICE: 4,700~6,242만원
+CAR_FUEL: 전기
+mileage: 복합 4.4~5.2km/kWh 도심 4.8~5.8, 고속 3.9~4.6
+power: 124.9~239kW 모터 167~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,655mm
+height: 1,605mm
+width: 1,890mm
+wheelbase: 3,000mm
+
+[차량 10]
+CAR_NAME: 아이오닉 6
+CAR_PRICE: 4,695~6,182만원
+CAR_FUEL: 전기
+mileage: 복합 5.5~6.2km/kWh 도심 5.9~6.8, 고속 5.2~5.5
+power: 111~239kW 모터 149~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,855mm
+height: 1,495mm
+width: 1,880mm
+wheelbase: 2,950mm
+
+[차량 11]
+CAR_NAME: 아이오닉 7
+CAR_PRICE: 
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 
+height: 
+width: 
+wheelbase: 3,200mm
+
+[차량 12]
+CAR_NAME: K3
+CAR_PRICE: 1,825~2,507만원
+CAR_FUEL: 가솔린
+mileage: 복합 14.1~15.2km/ℓ 도심 12.6~13.6, 고속 16.3~17.7
+power: 123hp 엔진
+torque: 15.7kg.m 엔진
+displacement: 1,598cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT
+length: 4,645mm
+height: 1,440mm
+width: 1,800mm
+wheelbase: 2,700mm
+
+[차량 13]
+CAR_NAME: K5
+CAR_PRICE: 2,766~3,601만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.5~13.7km/ℓ 도심 8.2~12.1, 고속 11.5~16.1
+power: 146~180hp 엔진
+torque: 19.5~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF
+transmission: 자동
+length: 4,905mm
+height: 1,445mm
+width: 1,860mm
+wheelbase: 2,850mm
+
+[차량 14]
+CAR_NAME: K8
+CAR_PRICE: 3,736~5,055만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 7.8~12km/ℓ 도심 6.6~10.2, 고속 10~15
+power: 198~300hp 엔진
+torque: 25.3~36.6kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 자연흡기
+drive: FF, AWD
+transmission: 자동8단
+length: 5,050mm
+height: 1,455~1,480mm
+width: 1,880mm
+wheelbase: 2,895mm
+
+[차량 15]
+CAR_NAME: K9
+CAR_PRICE: 5,933~7,870만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.1~9km/ℓ 도심 7~7.8, 고속 10.1~11
+power: 315~370hp 엔진
+torque: 40.5~52kg.m 엔진
+displacement: 3,342~3,778cc
+engine: V6 자연흡기
+drive: FR, AWD
+transmission: 자동8단
+length: 5,140mm
+height: 1,490mm
+width: 1,915mm
+wheelbase: 3,105mm
+
+[차량 16]
+CAR_NAME: 셀토스
+CAR_PRICE: 2,147~2,968만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.8~12.9km/ℓ 도심 9.8~11.8, 고속 12.2~14.6
+power: 149~198hp 엔진
+torque: 18.3~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF, AWD
+transmission: 자동8단, CVT
+length: 4,390mm
+height: 1,600~1,620mm
+width: 1,800mm
+wheelbase: 2,630mm
+
+[차량 17]
+CAR_NAME: 스포티지
+CAR_PRICE: 2,836~3,748만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.6~12.3km/ℓ 도심 7.6~11.2, 고속 10.1~14
+power: 146~180hp 엔진
+torque: 19.5~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF, AWD
+transmission: 자동
+length: 4,685mm
+height: 1,660~1,680mm
+width: 1,865mm
+wheelbase: 2,755mm
+
+[차량 18]
+CAR_NAME: 쏘렌토
+CAR_PRICE: 3,605~4,696만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 9.3~14.3km/ℓ 도심 8.3~12.7, 고속 10.8~17
+power: 194~281hp 엔진
+torque: 43~45kg.m 엔진
+displacement: 2,151~2,497cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: DCT8단
+length: 4,815mm
+height: 1,695~1,700mm
+width: 1,900mm
+wheelbase: 2,815mm
+
+[차량 19]
+CAR_NAME: 모하비
+CAR_PRICE: 5,054~5,993만원
+CAR_FUEL: 디젤
+mileage: 복합 9.3km/ℓ 도심 8.2, 고속 10.9~11
+power: 257hp 엔진
+torque: 57.1kg.m 엔진
+displacement: 2,959cc
+engine: V6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,930mm
+height: 1,790mm
+width: 1,920mm
+wheelbase: 2,895mm
+
+[차량 20]
+CAR_NAME: EV6
+CAR_PRICE: 4,870~6,230만원
+CAR_FUEL: 전기
+mileage: 복합 4.6~5.6km/kWh 도심 5.1~6.4, 고속 4~4.9
+power: 125~239kW 모터 168~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD, RR
+transmission: 자동1단
+length: 4,680~4,695mm
+height: 1,550mm
+width: 1,880~1,890mm
+wheelbase: 2,900mm
+
+[차량 21]
+CAR_NAME: EV9
+CAR_PRICE: 7,337~8,397만원
+CAR_FUEL: 전기
+mileage: 복합 3.8~4.2km/kWh 도심 4.1~4.7, 고속 3.3~3.6
+power: 150~283kW 모터 201~379hp (단순환산치)
+torque: 350~700Nm 모터 35.7~71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 5,010~5,015mm
+height: 1,755~1,780mm
+width: 1,980mm
+wheelbase: 3,100mm
+
+[차량 22]
+CAR_NAME: EV4
+CAR_PRICE: 
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 23]
+CAR_NAME: G70
+CAR_PRICE: 4,476~4,723만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.1~10.9km/ℓ 도심 9.1~9.7, 고속 11.7~12.7
+power: 304hp 엔진
+torque: 43kg.m 엔진
+displacement: 2,497cc
+engine: I4 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,685mm
+height: 1,400mm
+width: 1,850mm
+wheelbase: 2,835mm
+
+[차량 24]
+CAR_NAME: G80
+CAR_PRICE: 5,801~6,741만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.3~10.6km/ℓ 도심 7.2~9, 고속 10.1~13.5
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,005mm
+height: 1,465mm
+width: 1,925mm
+wheelbase: 3,010mm
+
+[차량 25]
+CAR_NAME: G90
+CAR_PRICE: 9,397~13,657만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.2~9.3km/ℓ 도심 7.1~8, 고속 10~11.5
+power: 380~415hp 엔진
+torque: 54~56kg.m 엔진
+displacement: 3,470cc
+engine: V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,275mm
+height: 1,490mm
+width: 1,930mm
+wheelbase: 3,180mm
+
+[차량 26]
+CAR_NAME: GV70
+CAR_PRICE: 5,298~6,148만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.5~10.2km/ℓ 도심 7.5~8.9, 고속 10.2~12.5
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,715mm
+height: 1,630mm
+width: 1,910mm
+wheelbase: 2,875mm
+
+[차량 27]
+CAR_NAME: GV80
+CAR_PRICE: 6,840~9,717만원
+CAR_FUEL: 가솔린
+mileage: 복합 7.7~9.3km/ℓ 도심 6.8~8.2, 고속 9.2~11
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,940mm
+height: 1,715mm
+width: 1,975mm
+wheelbase: 2,955mm
+
+[차량 28]
+CAR_NAME: GV60
+CAR_PRICE: 6,433~7,343만원
+CAR_FUEL: 전기
+mileage: 복합 4.1~5.1km/kWh 도심 4.3~5.7, 고속 3.8~4.5
+power: 168~360kW 모터 225~482hp (단순환산치)
+torque: 350~700Nm 모터 35.7~71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,515mm
+height: 1,580mm
+width: 1,890mm
+wheelbase: 2,900mm
+
+[차량 29]
+CAR_NAME: G80 EV
+CAR_PRICE: 8,468만원
+CAR_FUEL: 전기
+mileage: 복합 4.4km/kWh 도심 4.6, 고속 4.3
+power: 272kW 모터 364hp (단순환산치)
+torque: 700Nm 모터 71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,135mm
+height: 1,480mm
+width: 1,925mm
+wheelbase: 3,140mm
+
+[차량 30]
+CAR_NAME: 스파크
+CAR_PRICE: 977~1,487만원
+CAR_FUEL: 가솔린
+mileage: 복합 14.4~15km/ℓ 도심 13.4~14.3, 고속 16~16.1
+power: 75hp 엔진
+torque: 9.7kg.m 엔진
+displacement: 999cc
+engine: l3 자연흡기
+drive: FF
+transmission: 수동5단, CVT
+length: 3,595mm
+height: 1,485mm
+width: 1,595mm
+wheelbase: 2,385mm
+
+[차량 31]
+CAR_NAME: 말리부
+CAR_PRICE: 2,364~3,338만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.5~14.2km/ℓ 도심 9.1~12.8, 고속 13~16.2
+power: 156~253hp 엔진
+torque: 24.1~36kg.m 엔진
+displacement: 1,341~1,998cc
+engine: I3, l4 싱글터보
+drive: FF
+transmission: 자동6단, CVT
+length: 4,935mm
+height: 1,465mm
+width: 1,855mm
+wheelbase: 2,830mm
+
+[차량 32]
+CAR_NAME: 트레일블레이저
+CAR_PRICE: 2,799~3,339만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.6~12.9km/ℓ 도심 10.7~12.1, 고속 12.7~14
+power: 156hp 엔진
+torque: 24.1kg.m 엔진
+displacement: 1,341cc
+engine: I3 싱글터보
+drive: FF, AWD
+transmission: 자동9단, CVT
+length: 4,410~4,425mm
+height: 1,660~1,670mm
+width: 1,810mm
+wheelbase: 2,640mm
+
+[차량 33]
+CAR_NAME: 이쿼녹스
+CAR_PRICE: 
+CAR_FUEL: 가솔린
+mileage: 복합 도심 , 고속
+power: 175hp 엔진
+torque: 25.5~28kg.m 엔진
+displacement: 1,490cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: 자동8단, CVT
+length: 4,653mm
+height: 1,667mm
+width: 1,902mm
+wheelbase: 2,730mm
+
+[차량 34]
+CAR_NAME: 트래버스
+CAR_PRICE: 5,640~6,615만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.3km/ℓ 도심 7.1, 고속 10.3
+power: 310hp 엔진
+torque: 36.8kg.m 엔진
+displacement: 3,564cc
+engine: V6 자연흡기
+drive: AWD
+transmission: 자동9단
+length: 5,230mm
+height: 1,780mm
+width: 2,000mm
+wheelbase: 3,073mm
+
+[차량 35]
+CAR_NAME: 타호
+CAR_PRICE: 
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 도심 , 고속
+power: 305~420hp 엔진
+torque: 53~68.4kg.m 엔진
+displacement: 2,997~6,198cc
+engine: I6, V8 자연흡기
+drive: 4WD, FR
+transmission: 자동10단
+length: 5,351mm
+height: 1,927mm
+width: 2,058mm
+wheelbase: 3,071mm
+
+[차량 36]
+CAR_NAME: 콜로라도
+CAR_PRICE: 7,279만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.1km/ℓ 도심 7.5, 고속 9.1
+power: 314hp 엔진
+torque: 54kg.m 엔진
+displacement: 2,726cc
+engine: I4 싱글터보
+drive: 4WD
+transmission: 자동8단
+length: 5,410mm
+height: 1,810mm
+width: 1,905mm
+wheelbase: 3,337mm
+
+[차량 37]
+CAR_NAME: 실버라도
+CAR_PRICE: 39,900~105,000달러 내차시세
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 375~495kW 모터
+torque: 
+displacement: 
+engine: 
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 38]
+CAR_NAME: SM6
+CAR_PRICE: 2,797~3,639만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.5~13.6km/ℓ 도심 8.5~12.1, 고속 11~16
+power: 140~225hp 엔진
+torque: 19.7~30.6kg.m 엔진
+displacement: 1,332~1,998cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT, DCT7단
+length: 4,855mm
+height: 1,460mm
+width: 1,870mm
+wheelbase: 2,810mm
+
+[차량 39]
+CAR_NAME: QM6
+CAR_PRICE: 2,565~3,049만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.6~11.6km/ℓ 도심 7.7~10.6, 고속 9.9~13.1
+power: 140~144hp 엔진
+torque: 19.7~20.4kg.m 엔진
+displacement: 1,997~1,998cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT
+length: 4,675mm
+height: 1,680~1,700mm
+width: 1,845mm
+wheelbase: 2,705mm
+
+[차량 40]
+CAR_NAME: XM3
+CAR_PRICE: 2,235~2,864만원
+CAR_FUEL: 가솔린
+mileage: 복합 13.2~13.8km/ℓ 도심 11.8~12.3, 고속 15.3~16.3
+power: 123~152hp 엔진
+torque: 15.8~26kg.m 엔진
+displacement: 1,332~1,598cc
+engine: I4 싱글터보
+drive: FF
+transmission: CVT, DCT7단
+length: 4,570mm
+height: 1,570mm
+width: 1,820mm
+wheelbase: 2,720mm
+
+[차량 41]
+CAR_NAME: 메간 E-Tech
+CAR_PRICE: 64,990호주달러
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 160kW 모터 214hp (단순환산치)
+torque: 300Nm 모터 30.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,210mm
+height: 1,500mm
+width: 1,770mm
+wheelbase: 2,700mm
+
+[차량 42]
+CAR_NAME: 티볼리
+CAR_PRICE: 1,898~3,139만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.4~12km/ℓ 도심 10.8, 고속 13.8
+power: 126~163hp 엔진
+torque: 15.8~26.5kg.m 엔진
+displacement: 1,497~1,597cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동6단
+length: 4,225mm
+height: 1,615~1,620mm
+width: 1,810mm
+wheelbase: 2,600mm
+
+[차량 43]
+CAR_NAME: 코란도
+CAR_PRICE: 4,028~4,544만원
+CAR_FUEL: 전기
+mileage: 복합 4.8km/kWh 도심 5.2, 고속 4.3
+power: 152.2kW 모터 204hp (단순환산치)
+torque: 339Nm 모터 34.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,465mm
+height: 1,640mm
+width: 1,870mm
+wheelbase: 2,675mm
+
+[차량 44]
+CAR_NAME: 렉스턴
+CAR_PRICE: 3,953~5,967만원
+CAR_FUEL: 디젤
+mileage: 복합 10.6~11.1km/ℓ 도심 9.3~9.9, 고속 12.7~13.1
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동8단
+length: 4,850mm
+height: 1,825mm
+width: 1,960mm
+wheelbase: 2,865mm
+
+[차량 45]
+CAR_NAME: 토레스
+CAR_PRICE: 2,666~3,714만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.9~11.2km/ℓ 도심 10.2, 고속 12.5
+power: 165~170hp 엔진
+torque: 27.3~28.6kg.m 엔진
+displacement: 1,497cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동6단
+length: 4,705mm
+height: 1,720mm
+width: 1,890mm
+wheelbase: 2,680mm
+
+[차량 46]
+CAR_NAME: 렉스턴 스포츠
+CAR_PRICE: 2,879~4,031만원
+CAR_FUEL: 디젤
+mileage: 복합 10.4km/ℓ 도심 9.4~9.7, 고속 11.3~11.8
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동6단
+length: 5,095~5,105mm
+height: 1,870mm
+width: 1,950mm
+wheelbase: 3,100mm
+
+[차량 47]
+CAR_NAME: 렉스턴 스포츠 칸
+CAR_PRICE: 3,104~4,246만원
+CAR_FUEL: 디젤
+mileage: 복합 10.2~10.3km/ℓ 도심 9.4~9.6, 고속 11~11.6
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동6단
+length: 5,415mm
+height: 1,885mm
+width: 1,950mm
+wheelbase: 3,210mm
+
+[차량 48]
+CAR_NAME: 모델 3
+CAR_PRICE: 5,199~6,939만원
+CAR_FUEL: 전기
+mileage: 복합 4.8~5.7km/kWh 도심 6, 고속 5.3
+power: 208~366kW 모터 279~490hp (단순환산치)
+torque: 420~740Nm 모터 42.8~75.5kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,720mm
+height: 1,431~1,440mm
+width: 1,933~1,935mm
+wheelbase: 2,875mm
+
+[차량 49]
+CAR_NAME: 모델 S
+CAR_PRICE: 11,525~12,554만원
+CAR_FUEL: 전기
+mileage: 복합 4.1~4.8km/kWh 도심 4.2~5, 고속 4~4.6
+power: 500~760kW 모터 670~1,018hp (단순환산치)
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,021mm
+height: 1,431mm
+width: 1,987mm
+wheelbase: 2,960mm
+
+[차량 50]
+CAR_NAME: 모델 Y
+CAR_PRICE: 5,299~7,199만원
+CAR_FUEL: 전기
+mileage: 복합 4.9~5.1km/kWh 도심 5.1~5.3, 고속 4.6~4.8
+power: 220~336kW 모터 295~450hp (단순환산치)
+torque: 420~637Nm 모터 42.8~65.0kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,750mm
+height: 1,625mm
+width: 1,920~1,980mm
+wheelbase: 2,890mm
+
+[차량 51]
+CAR_NAME: 모델 X
+CAR_PRICE: 12,875~14,135만원
+CAR_FUEL: 전기
+mileage: 복합 3.8~4.2km/kWh 도심 3.9~4.4, 고속 3.7~4.1
+power: 500~760kW 모터 670~1,018hp (단순환산치)
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,050mm
+height: 1,625mm
+width: 2,000mm
+wheelbase: 2,965mm
+
+[차량 52]
+CAR_NAME: 3시리즈
+CAR_PRICE: 5,700~8,480만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.4~15km/ℓ 도심 9.1~13.8, 고속 12.6~16.9
+power: 184~387hp 엔진
+torque: 30.6~51kg.m 엔진
+displacement: 1,995~2,998cc
+engine: I4, I6 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,715mm
+height: 1,435~1,440mm
+width: 1,825mm
+wheelbase: 2,850mm
+
+[차량 53]
+CAR_NAME: 5시리즈
+CAR_PRICE: 6,950~9,250만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 11.1~14.7km/ℓ 도심 9.9~13.5, 고속 13~16.5
+power: 190~258hp 엔진
+torque: 31.6~40.8kg.m 엔진
+displacement: 1,995~1,998cc
+engine: I4 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,060mm
+height: 1,515mm
+width: 1,900mm
+wheelbase: 2,995mm
+
+[차량 54]
+CAR_NAME: 7시리즈
+CAR_PRICE: 14,730~17,490만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.4~12.5km/ℓ 도심 9.2~11, 고속 11.9~15.2
+power: 299~381hp 엔진
+torque: 55.1~68.3kg.m 엔진
+displacement: 2,993~2,998cc
+engine: I6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 5,390mm
+height: 1,545mm
+width: 1,950mm
+wheelbase: 3,215mm
+
+[차량 55]
+CAR_NAME: X1
+CAR_PRICE: 5,890~7,210만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.2~14.6km/ℓ 도심 8.9~13.4, 고속 12.2~16.5
+power: 150~317hp 엔진
+torque: 30.6~40.7kg.m 엔진
+displacement: 1,995~1,998cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: DCT7단
+length: 4,500~4,505mm
+height: 1,620~1,640mm
+width: 1,835mm
+wheelbase: 2,690mm
+
+[차량 56]
+CAR_NAME: X3
+CAR_PRICE: 7,000~9,890만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 9.2~12.2km/ℓ 도심 8.1~11, 고속 10.9~14.1
+power: 184~387hp 엔진
+torque: 29.5~51kg.m 엔진
+displacement: 1,995~2,998cc
+engine: I4, I6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,710~4,715mm
+height: 1,675mm
+width: 1,890mm
+wheelbase: 2,865mm
+
+[차량 57]
+CAR_NAME: X5
+CAR_PRICE: 11,610~16,060만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 7.5~11.6km/ℓ 도심 6.7~10.7, 고속 8.7~13.1
+power: 286~530hp 엔진
+torque: 53~76.4kg.m 엔진
+displacement: 2,993~4,395cc
+engine: I6, V8 트윈터보
+drive: AWD
+transmission: 자동8단
+length: 4,935mm
+height: 1,755~1,765mm
+width: 1,970mm
+wheelbase: 2,975mm
+
+[차량 58]
+CAR_NAME: X7
+CAR_PRICE: 14,720~18,100만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 6.9~10km/ℓ 도심 6.2~9.2, 고속 7.9~11.3
+power: 340~530hp 엔진
+torque: 55~76.5kg.m 엔진
+displacement: 2,993~4,395cc
+engine: I6, V8 트윈터보
+drive: AWD
+transmission: 자동8단
+length: 5,180mm
+height: 1,835mm
+width: 1,990mm
+wheelbase: 3,105mm
+
+[차량 59]
+CAR_NAME: i4
+CAR_PRICE: 8,110~8,480만원
+CAR_FUEL: 전기
+mileage: 복합 4.6km/kWh 도심 4.6, 고속 4.5
+power: 250kW 모터 335hp (단순환산치)
+torque: 430Nm 모터 43.9kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR
+transmission: 자동1단
+length: 4,785mm
+height: 1,450mm
+width: 1,850mm
+wheelbase: 2,855mm
+
+[차량 60]
+CAR_NAME: iX
+CAR_PRICE: 14,890만원
+CAR_FUEL: 전기
+mileage: 복합 3.6km/kWh 도심 3.5, 고속 3.6
+power: 385kW 모터 516hp (단순환산치)
+torque: 765Nm 모터 78.0kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 4,955mm
+height: 1,695mm
+width: 1,965mm
+wheelbase: 3,000mm
+
+[차량 61]
+CAR_NAME: i7
+CAR_PRICE: 16,750~21,650만원 내차시세
+CAR_FUEL: 전기
+mileage: 복합 3.7~3.8km/kWh 도심 3.6~3.7, 고속 3.8~4
+power: 335~400kW 모터
+torque: 
+displacement: 
+engine: 
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 62]
+CAR_NAME: A-Class
+CAR_PRICE: 4,510만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.9km/ℓ 도심 10.5, 고속 14.3
+power: 190hp 엔진
+torque: 30.6kg.m 엔진
+displacement: 1,991cc
+engine: I4 싱글터보
+drive: FF
+transmission: DCT7단
+length: 4,420mm
+height: 1,445mm
+width: 1,795mm
+wheelbase: 2,729mm
+
+[차량 63]
+CAR_NAME: C-Class
+CAR_PRICE: 6,200~7,600만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.1~11.7km/ℓ 도심 9.7~10.2, 고속 13.3~14
+power: 204~258hp 엔진
+torque: 32.6~40.8kg.m 엔진
+displacement: 1,999cc
+engine: I4 싱글터보
+drive: FR, AWD
+transmission: 자동9단
+length: 4,795mm
+height: 1,455mm
+width: 1,820mm
+wheelbase: 2,865mm
+
+[차량 64]
+CAR_NAME: E-Class
+CAR_PRICE: 7,390~12,300만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.5~15.4km/ℓ 도심 8.9~13.6, 고속 13.4~18.4
+power: 197~381hp 엔진
+torque: 32.6~51kg.m 엔진
+displacement: 1,993~2,999cc
+engine: I4, I6 싱글터보
+drive: FR, AWD
+transmission: 자동9단
+length: 4,955mm
+height: 1,465~1,475mm
+width: 1,880mm
+wheelbase: 2,960mm
+
+[차량 65]
+CAR_NAME: S-Class
+CAR_PRICE: 15,950~24,750만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 7.8~12.6km/ℓ 도심 6.6~11.1, 고속 10~15.3
+power: 367~503hp 엔진
+torque: 51~76.5kg.m 엔진
+displacement: 2,989~3,982cc
+engine: I6, V8 트윈터보
+drive: AWD
+transmission: 자동9단
+length: 5,210~5,320mm
+height: 1,505mm
+width: 1,920mm
+wheelbase: 3,106~3,216mm
+
+[차량 66]
+CAR_NAME: GLA
+CAR_PRICE: 6,860만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.9km/ℓ 도심 9.8, 고속 12.5
+power: 224hp 엔진
+torque: 35.7kg.m 엔진
+displacement: 1,991cc
+engine: I4 싱글터보
+drive: AWD
+transmission: DCT8단
+length: 4,445mm
+height: 1,615mm
+width: 1,850mm
+wheelbase: 2,730mm
+
+[차량 67]
+CAR_NAME: GLC
+CAR_PRICE: 7,790~8,790만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.8~14.1km/ℓ 도심 9.7~13.3, 고속 12.4~15.4
+power: 197~258hp 엔진
+torque: 40.8~44.9kg.m 엔진
+displacement: 1,993~1,999cc
+engine: I4 싱글터보
+drive: AWD
+transmission: 자동9단
+length: 4,720mm
+height: 1,645mm
+width: 1,890mm
+wheelbase: 2,888mm
+
+[차량 68]
+CAR_NAME: GLE
+CAR_PRICE: 11,400~13,430만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 8.5~11.4km/ℓ 도심 7.7~10.8, 고속 9.7~12.2
+power: 269~381hp 엔진
+torque: 51~56.1kg.m 엔진
+displacement: 1,993~2,999cc
+engine: I4, I6 싱글터보
+drive: AWD
+transmission: 자동9단
+length: 4,925mm
+height: 1,780mm
+width: 2,010~2,020mm
+wheelbase: 2,995mm
+
+[차량 69]
+CAR_NAME: GLS
+CAR_PRICE: 15,500만원
+CAR_FUEL: 가솔린
+mileage: 복합 7.9km/ℓ 도심 7.2, 고속 8.9
+power: 381hp 엔진
+torque: 51kg.m 엔진
+displacement: 2,999cc
+engine: I6 트윈터보
+drive: AWD
+transmission: 자동9단
+length: 5,210mm
+height: 1,840mm
+width: 2,030mm
+wheelbase: 3,135mm
+
+[차량 70]
+CAR_NAME: EQB
+CAR_PRICE: 7,660~8,200만원
+CAR_FUEL: 전기
+mileage: 복합 4.1km/kWh 도심 4.3, 고속 3.9
+power: 168kW 모터 225hp (단순환산치)
+torque: 390Nm 모터 39.8kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 4,685mm
+height: 1,690mm
+width: 1,835mm
+wheelbase: 2,829mm
+
+[차량 71]
+CAR_NAME: EQE
+CAR_PRICE: 10,350~10,990만원
+CAR_FUEL: 전기
+mileage: 복합 4~4.3km/kWh 도심 4.1~4.5, 고속 3.9~4.1
+power: 215kW 모터 288hp (단순환산치)
+torque: 565~765Nm 모터 57.6~78.0kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,965mm
+height: 1,510mm
+width: 1,905mm
+wheelbase: 3,120mm
+
+[차량 72]
+CAR_NAME: EQS
+CAR_PRICE: 16,390~19,000만원
+CAR_FUEL: 전기
+mileage: 복합 3.5~3.8km/kWh 도심 3.5~3.8, 고속 3.6~3.7
+power: 245~265kW 모터 328~355hp (단순환산치)
+torque: 568~800Nm 모터 57.9~81.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 5,225mm
+height: 1,510~1,520mm
+width: 1,925mm
+wheelbase: 3,210mm
+
+[차량 73]
+CAR_NAME: A3
+CAR_PRICE: 
+CAR_FUEL: 전기, 가솔린, 하이브리드
+mileage: 복합 0.4ℓ/100km 도심 , 고속
+power: 201hp/148hp/85kW 합산/엔진/모터
+torque: 
+displacement: 
+engine: I4 싱글터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 74]
+CAR_NAME: A4
+CAR_PRICE: 5,490~6,778만원 내차시세
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.6~16.9km/ℓ 도심 9.5~15.3, 고속 12.3~19.4
+power: 163~265hp 엔진
+torque: 
+displacement: 
+engine: I4 싱글터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 75]
+CAR_NAME: A6
+CAR_PRICE: 7,220~8,470만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.7~15km/ℓ 도심 9.5~13.7, 고속 12.8~17
+power: 204~265hp 엔진
+torque: 37.7~40.8kg.m 엔진
+displacement: 1,968~1,984cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동7단
+length: 4,940~4,950mm
+height: 1,460mm
+width: 1,885mm
+wheelbase: 2,924mm
+
+[차량 76]
+CAR_NAME: A8
+CAR_PRICE: 14,038~14,440만원 내차시세
+CAR_FUEL: 디젤
+mileage: 복합 11.4km/ℓ 도심 10, 고속 13.7
+power: 286hp 엔진
+torque: 
+displacement: 
+engine: V6 싱글터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 77]
+CAR_NAME: Q3
+CAR_PRICE: 5,310~6,070만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.3~14.8km/ℓ 도심 9.3~13.4, 고속 11.9~16.9
+power: 150~186hp 엔진
+torque: 30.5~36.7kg.m 엔진
+displacement: 1,968~1,984cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: 자동8단, DCT7단
+length: 4,500~4,520mm
+height: 1,570mm
+width: 1,845~1,855mm
+wheelbase: 2,680mm
+
+[차량 78]
+CAR_NAME: Q5
+CAR_PRICE: 7,370~8,120만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.2~13km/ℓ 도심 9.1~12.2, 고속 12~14.3
+power: 204~265hp 엔진
+torque: 37.7~40.7kg.m 엔진
+displacement: 1,968~1,984cc
+engine: I4 싱글터보
+drive: AWD
+transmission: DCT7단
+length: 4,690mm
+height: 1,660mm
+width: 1,895mm
+wheelbase: 2,820mm
+
+[차량 79]
+CAR_NAME: Q7
+CAR_PRICE: 11,560~12,400만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 8.1~10.5km/ℓ 도심 7.2~9.4, 고속 9.4~12.4
+power: 286~340hp 엔진
+torque: 51~61.1kg.m 엔진
+displacement: 2,967~2,995cc
+engine: V6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 5,070mm
+height: 1,705mm
+width: 1,970mm
+wheelbase: 2,999mm
+
+[차량 80]
+CAR_NAME: Q8
+CAR_PRICE: 12,000~13,000만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 8.1~10.1km/ℓ 도심 7.3~9.1, 고속 9.2~11.7
+power: 286~340hp 엔진
+torque: 51~61.1kg.m 엔진
+displacement: 2,967~2,995cc
+engine: V6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 5,005mm
+height: 1,685mm
+width: 1,995mm
+wheelbase: 2,998mm
+
+[차량 81]
+CAR_NAME: e-tron GT
+CAR_PRICE: 14,332~16,632만원
+CAR_FUEL: 전기
+mileage: 복합 3.7km/kWh 도심 3.5, 고속 3.9
+power: 390kW 모터 523hp (단순환산치)
+torque: 640Nm 모터 65.3kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동2단
+length: 4,990mm
+height: 1,405~1,420mm
+width: 1,965mm
+wheelbase: 2,898mm
+
+[차량 82]
+CAR_NAME: Q4 e-tron
+CAR_PRICE: 6,490~7,140만원
+CAR_FUEL: 전기
+mileage: 복합 4.7km/kWh 도심 5, 고속 4.3
+power: 150kW 모터 201hp (단순환산치)
+torque: 310Nm 모터 31.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR
+transmission: 자동1단
+length: 4,590mm
+height: 1,640mm
+width: 1,865mm
+wheelbase: 2,765mm
+
+[차량 83]
+CAR_NAME: 제타
+CAR_PRICE: 3,426~3,810만원
+CAR_FUEL: 가솔린
+mileage: 복합 14.1km/ℓ 도심 12.3, 고속 17.1
+power: 160hp 엔진
+torque: 25.5kg.m 엔진
+displacement: 1,498cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동8단
+length: 4,740mm
+height: 1,465mm
+width: 1,800mm
+wheelbase: 2,686mm
+
+[차량 84]
+CAR_NAME: 아테온
+CAR_PRICE: 5,880~6,370만원
+CAR_FUEL: 디젤
+mileage: 복합 13.8~15.5km/ℓ 도심 12.4~13.7, 고속 16.2~18.5
+power: 200hp 엔진
+torque: 40.8kg.m 엔진
+displacement: 1,968cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: DCT7단
+length: 4,865mm
+height: 1,440mm
+width: 1,870mm
+wheelbase: 2,840mm
+
+[차량 85]
+CAR_NAME: 티록
+CAR_PRICE: 3,244~3,835만원
+CAR_FUEL: 디젤
+mileage: 복합 16.2km/ℓ 도심 15.2, 고속 17.6
+power: 150hp 엔진
+torque: 36.7kg.m 엔진
+displacement: 1,968cc
+engine: I4 싱글터보
+drive: FF
+transmission: DCT7단
+length: 4,235mm
+height: 1,575mm
+width: 1,820mm
+wheelbase: 2,605mm
+
+[차량 86]
+CAR_NAME: 티구안
+CAR_PRICE: 5,374만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.1km/ℓ 도심 9, 고속 11.9
+power: 186hp 엔진
+torque: 30.6kg.m 엔진
+displacement: 1,984cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동8단
+length: 4,730mm
+height: 1,670mm
+width: 1,840mm
+wheelbase: 2,790mm
+
+[차량 87]
+CAR_NAME: 투아렉
+CAR_PRICE: 10,099~10,699만원
+CAR_FUEL: 디젤
+mileage: 복합 10.8km/ℓ 도심 9.6, 고속 12.8
+power: 286hp 엔진
+torque: 61.2kg.m 엔진
+displacement: 2,967cc
+engine: V6 트윈터보
+drive: AWD
+transmission: 자동8단
+length: 4,880~4,900mm
+height: 1,685mm
+width: 1,985mm
+wheelbase: 2,899mm
+
+[차량 88]
+CAR_NAME: ID.4
+CAR_PRICE: 5,490~5,990만원
+CAR_FUEL: 전기
+mileage: 복합 4.9km/kWh 도심 5.3, 고속 4.5
+power: 150kW 모터 201hp (단순환산치)
+torque: 310Nm 모터 31.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR
+transmission: 자동1단
+length: 4,585mm
+height: 1,615mm
+width: 1,850mm
+wheelbase: 2,765mm
+
+[차량 89]
+CAR_NAME: S60
+CAR_PRICE: 5,690만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.9km/ℓ 도심 10.5, 고속 14.3
+power: 250hp 엔진
+torque: 35.7kg.m 엔진
+displacement: 1,969cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동8단
+length: 4,780mm
+height: 1,430mm
+width: 1,850mm
+wheelbase: 2,872mm
+
+[차량 90]
+CAR_NAME: S90
+CAR_PRICE: 6,400~7,400만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.4~11.5km/ℓ 도심 9~10, 고속 12.9~14.2
+power: 250~300hp 엔진
+torque: 35.7~42.8kg.m 엔진
+displacement: 1,969cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동8단
+length: 5,090mm
+height: 1,445mm
+width: 1,890mm
+wheelbase: 3,060mm
+
+[차량 91]
+CAR_NAME: XC40
+CAR_PRICE: 4,950~5,615만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.3km/ℓ 도심 9.2, 고속 12.2
+power: 197hp 엔진
+torque: 30.6kg.m 엔진
+displacement: 1,969cc
+engine: I4 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,440mm
+height: 1,640mm
+width: 1,875mm
+wheelbase: 2,702mm
+
+[차량 92]
+CAR_NAME: XC60
+CAR_PRICE: 8,640만원
+CAR_FUEL: 전기, 가솔린, 하이브리드
+mileage: 복합 16.8km/ℓ 도심 16.6, 고속 17.1
+power: 462hp/317hp/107kW 합산/엔진/모터
+torque: 72.3kg.m/40.8kg.m/309Nm 합산/엔진/모터
+displacement: 1,969cc
+engine: I4 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,710mm
+height: 1,645mm
+width: 1,900mm
+wheelbase: 2,865mm
+
+[차량 93]
+CAR_NAME: XC90
+CAR_PRICE: 8,720~9,650만원
+CAR_FUEL: 가솔린
+mileage: 복합 9.1km/ℓ 도심 8.1, 고속 10.9
+power: 300hp 엔진
+torque: 42.8kg.m 엔진
+displacement: 1,969cc
+engine: l4 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,955mm
+height: 1,770mm
+width: 1,960mm
+wheelbase: 2,984mm
+
+[차량 94]
+CAR_NAME: XC40 Recharge
+CAR_PRICE: 6,769만원
+CAR_FUEL: 전기
+mileage: 복합 4.4km/kWh 도심 4.8, 고속 4.1
+power: 300kW 모터 402hp (단순환산치)
+torque: 660Nm 모터 67.3kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 4,440mm
+height: 1,635mm
+width: 1,875mm
+wheelbase: 2,702mm
+
+[차량 95]
+CAR_NAME: 타이칸
+CAR_PRICE: 14,410~21,220만원
+CAR_FUEL: 전기
+mileage: 복합 3.6~3.9km/kWh 도심 3.6~3.9, 고속 3.5~3.9
+power: 320~650kW 모터 429~871hp (단순환산치)
+torque: 585~890Nm 모터 59.7~90.8kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동2단
+length: 4,974mm
+height: 1,409~1,412mm
+width: 1,967mm
+wheelbase: 2,904mm
+
+[차량 96]
+CAR_NAME: 카이엔
+CAR_PRICE: 13,310만원
+CAR_FUEL: 가솔린
+mileage: 복합 7.5km/ℓ 도심 6.7, 고속 8.7
+power: 355hp 엔진
+torque: 51kg.m 엔진
+displacement: 2,995cc
+engine: V6 싱글터보
+drive: AWD
+transmission: DCT8단
+length: 4,930mm
+height: 1,698mm
+width: 1,983mm
+wheelbase: 2,895mm
+
+[차량 97]
+CAR_NAME: 마칸
+CAR_PRICE: 10,780만원
+CAR_FUEL: 가솔린
+mileage: 복합 7.8km/ℓ 도심 7, 고속 9
+power: 375hp 엔진
+torque: 53.1kg.m 엔진
+displacement: 2,894cc
+engine: V6 트윈터보
+drive: AWD
+transmission: DCT7단
+length: 4,725mm
+height: 1,595mm
+width: 1,925mm
+wheelbase: 2,805mm
+
+[차량 98]
+CAR_NAME: 디스커버리
+CAR_PRICE: 9,520~12,810만원 내차시세
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 7.5~10.1km/ℓ 도심 6.8~9.6, 고속 8.5~10.8
+power: 249~360hp 엔진
+torque: 
+displacement: 
+engine: I4, I6 싱글터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 99]
+CAR_NAME: 레인지로버
+CAR_PRICE: 23,900만원
+CAR_FUEL: 전기, 가솔린, 하이브리드
+mileage: 복합 8.7km/ℓ 도심 8.2, 고속 9.5
+power: 550hp/400hp/160kW 합산/엔진/모터
+torque: 81.6kg.m/56.1kg.m/450Nm 합산/엔진/모터
+displacement: 2,997cc
+engine: I6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 5,052mm
+height: 1,870mm
+width: 2,003mm
+wheelbase: 2,997mm
+
+[차량 100]
+CAR_NAME: 포르토피노
+CAR_PRICE: 
+CAR_FUEL: 가솔린
+mileage: 복합 도심 , 고속
+power: 620hp 엔진
+torque: 
+displacement: 
+engine: V8 트윈터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 101]
+CAR_NAME: 우루스
+CAR_PRICE: 
+CAR_FUEL: 전기, 가솔린, 하이브리드
+mileage: 복합 도심 , 고속
+power: 800hp/620hp/141kW 합산/엔진/모터
+torque: 
+displacement: 
+engine: V8 트윈터보
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 102]
+CAR_NAME: 아벤타도르
+CAR_PRICE: 
+CAR_FUEL: 가솔린
+mileage: 복합 도심 , 고속
+power: 780hp 엔진
+torque: 73.4kg.m 엔진
+displacement: 6,498cc
+engine: V12 자연흡기
+drive: AWD
+transmission: 자동7단
+length: 4,797mm
+height: 1,136mm
+width: 2,030mm
+wheelbase: 2,700mm
+
+[차량 103]
+CAR_NAME: 아반떼
+CAR_PRICE: 1,964~2,783만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 10.3~15km/ℓ 도심 9.1~13.4, 고속 12.1~17.4
+power: 120~123hp 엔진
+torque: 15.5~15.7kg.m 엔진
+displacement: 1,591~1,598cc
+engine: I4 자연흡기
+drive: FF
+transmission: 자동6단, CVT
+length: 4,710mm
+height: 1,420mm
+width: 1,825mm
+wheelbase: 2,720mm
+
+[차량 104]
+CAR_NAME: 쏘나타
+CAR_PRICE: 2,808~3,917만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.4~13.5km/ℓ 도심 8.2~11.9, 고속 11.5~15.9
+power: 146~290hp 엔진
+torque: 19.5~43kg.m 엔진
+displacement: 1,598~2,497cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동, DCT8단
+length: 4,910mm
+height: 1,445mm
+width: 1,860mm
+wheelbase: 2,840mm
+
+[차량 105]
+CAR_NAME: 그랜저
+CAR_PRICE: 3,711~5,241만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 7.8~11.7km/ℓ 도심 6.7~10, 고속 9.6~14.5
+power: 198~300hp 엔진
+torque: 25.3~36.6kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 자연흡기
+drive: FF, AWD
+transmission: 자동8단
+length: 5,035mm
+height: 1,460mm
+width: 1,880mm
+wheelbase: 2,895mm
+
+[차량 106]
+CAR_NAME: 아반떼
+CAR_PRICE: 1,964~2,783만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 10.3~15km/ℓ 도심 9.1~13.4, 고속 12.1~17.4
+power: 120~123hp 엔진
+torque: 15.5~15.7kg.m 엔진
+displacement: 1,591~1,598cc
+engine: I4 자연흡기
+drive: FF
+transmission: 자동6단, CVT
+length: 4,710mm
+height: 1,420mm
+width: 1,825mm
+wheelbase: 2,720mm
+
+[차량 107]
+CAR_NAME: 쏘나타
+CAR_PRICE: 2,808~3,917만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.4~13.5km/ℓ 도심 8.2~11.9, 고속 11.5~15.9
+power: 146~290hp 엔진
+torque: 19.5~43kg.m 엔진
+displacement: 1,598~2,497cc
+engine: I4 싱글터보
+drive: FF
+transmission: 자동, DCT8단
+length: 4,910mm
+height: 1,445mm
+width: 1,860mm
+wheelbase: 2,840mm
+
+[차량 108]
+CAR_NAME: 그랜저
+CAR_PRICE: 3,711~5,241만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 7.8~11.7km/ℓ 도심 6.7~10, 고속 9.6~14.5
+power: 198~300hp 엔진
+torque: 25.3~36.6kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 자연흡기
+drive: FF, AWD
+transmission: 자동8단
+length: 5,035mm
+height: 1,460mm
+width: 1,880mm
+wheelbase: 2,895mm
+
+[차량 109]
+CAR_NAME: 코나
+CAR_PRICE: 2,409~3,373만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.2~13.6km/ℓ 도심 10~12.6, 고속 13.1~15.5
+power: 149~198hp 엔진
+torque: 18.3~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동8단, CVT
+length: 4,350~4,385mm
+height: 1,580~1,590mm
+width: 1,825mm
+wheelbase: 2,660mm
+
+[차량 110]
+CAR_NAME: 투싼
+CAR_PRICE: 2,729~3,950만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 11.2~14.3km/ℓ 도심 10.1~12.7, 고속 12.7~16.8
+power: 180~184hp 엔진
+torque: 27~42.5kg.m 엔진
+displacement: 1,598~1,998cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: 자동8단, DCT7단
+length: 4,640~4,650mm
+height: 1,665mm
+width: 1,865mm
+wheelbase: 2,755mm
+
+[차량 111]
+CAR_NAME: 싼타페
+CAR_PRICE: 3,492~4,598만원
+CAR_FUEL: 가솔린
+mileage: 복합 9.7~11km/ℓ 도심 8.5~9.6, 고속 11.6~13.4
+power: 281hp 엔진
+torque: 43kg.m 엔진
+displacement: 2,497cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: DCT8단
+length: 4,830mm
+height: 1,720~1,780mm
+width: 1,900mm
+wheelbase: 2,815mm
+
+[차량 112]
+CAR_NAME: 팰리세이드
+CAR_PRICE: 3,837~5,413만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 8.5~12.4km/ℓ 도심 7.6~11.3, 고속 10~14.1
+power: 202~295hp 엔진
+torque: 36.2~45kg.m 엔진
+displacement: 2,199~3,778cc
+engine: V6, I4 자연흡기
+drive: AWD, FF
+transmission: 자동8단
+length: 4,995mm
+height: 1,750mm
+width: 1,975mm
+wheelbase: 2,900mm
+
+[차량 113]
+CAR_NAME: 넥쏘
+CAR_PRICE: 6,950만원
+CAR_FUEL: 전기, 수소
+mileage: 복합 96.2km/kg 도심 99.5, 고속 92.6
+power: 113kW 모터 151hp (단순환산치)
+torque: 395Nm 모터 40.3kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,670mm
+height: 1,630mm
+width: 1,860mm
+wheelbase: 2,790mm
+
+[차량 114]
+CAR_NAME: 아이오닉 5
+CAR_PRICE: 4,700~6,242만원
+CAR_FUEL: 전기
+mileage: 복합 4.4~5.2km/kWh 도심 4.8~5.8, 고속 3.9~4.6
+power: 124.9~239kW 모터 167~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,655mm
+height: 1,605mm
+width: 1,890mm
+wheelbase: 3,000mm
+
+[차량 115]
+CAR_NAME: 아이오닉 6
+CAR_PRICE: 4,695~6,182만원
+CAR_FUEL: 전기
+mileage: 복합 5.5~6.2km/kWh 도심 5.9~6.8, 고속 5.2~5.5
+power: 111~239kW 모터 149~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,855mm
+height: 1,495mm
+width: 1,880mm
+wheelbase: 2,950mm
+
+[차량 116]
+CAR_NAME: 아이오닉 7
+CAR_PRICE: 
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 
+height: 
+width: 
+wheelbase: 3,200mm
+
+[차량 117]
+CAR_NAME: K3
+CAR_PRICE: 1,825~2,507만원
+CAR_FUEL: 가솔린
+mileage: 복합 14.1~15.2km/ℓ 도심 12.6~13.6, 고속 16.3~17.7
+power: 123hp 엔진
+torque: 15.7kg.m 엔진
+displacement: 1,598cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT
+length: 4,645mm
+height: 1,440mm
+width: 1,800mm
+wheelbase: 2,700mm
+
+[차량 118]
+CAR_NAME: K5
+CAR_PRICE: 2,766~3,601만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.5~13.7km/ℓ 도심 8.2~12.1, 고속 11.5~16.1
+power: 146~180hp 엔진
+torque: 19.5~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF
+transmission: 자동
+length: 4,905mm
+height: 1,445mm
+width: 1,860mm
+wheelbase: 2,850mm
+
+[차량 119]
+CAR_NAME: K8
+CAR_PRICE: 3,736~5,055만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 7.8~12km/ℓ 도심 6.6~10.2, 고속 10~15
+power: 198~300hp 엔진
+torque: 25.3~36.6kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 자연흡기
+drive: FF, AWD
+transmission: 자동8단
+length: 5,050mm
+height: 1,455~1,480mm
+width: 1,880mm
+wheelbase: 2,895mm
+
+[차량 120]
+CAR_NAME: K9
+CAR_PRICE: 5,933~7,870만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.1~9km/ℓ 도심 7~7.8, 고속 10.1~11
+power: 315~370hp 엔진
+torque: 40.5~52kg.m 엔진
+displacement: 3,342~3,778cc
+engine: V6 자연흡기
+drive: FR, AWD
+transmission: 자동8단
+length: 5,140mm
+height: 1,490mm
+width: 1,915mm
+wheelbase: 3,105mm
+
+[차량 121]
+CAR_NAME: 셀토스
+CAR_PRICE: 2,147~2,968만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.8~12.9km/ℓ 도심 9.8~11.8, 고속 12.2~14.6
+power: 149~198hp 엔진
+torque: 18.3~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF, AWD
+transmission: 자동8단, CVT
+length: 4,390mm
+height: 1,600~1,620mm
+width: 1,800mm
+wheelbase: 2,630mm
+
+[차량 122]
+CAR_NAME: 스포티지
+CAR_PRICE: 2,836~3,748만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.6~12.3km/ℓ 도심 7.6~11.2, 고속 10.1~14
+power: 146~180hp 엔진
+torque: 19.5~27kg.m 엔진
+displacement: 1,598~1,999cc
+engine: I4 자연흡기
+drive: FF, AWD
+transmission: 자동
+length: 4,685mm
+height: 1,660~1,680mm
+width: 1,865mm
+wheelbase: 2,755mm
+
+[차량 123]
+CAR_NAME: 쏘렌토
+CAR_PRICE: 3,605~4,696만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 9.3~14.3km/ℓ 도심 8.3~12.7, 고속 10.8~17
+power: 194~281hp 엔진
+torque: 43~45kg.m 엔진
+displacement: 2,151~2,497cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: DCT8단
+length: 4,815mm
+height: 1,695~1,700mm
+width: 1,900mm
+wheelbase: 2,815mm
+
+[차량 124]
+CAR_NAME: 모하비
+CAR_PRICE: 5,054~5,993만원
+CAR_FUEL: 디젤
+mileage: 복합 9.3km/ℓ 도심 8.2, 고속 10.9~11
+power: 257hp 엔진
+torque: 57.1kg.m 엔진
+displacement: 2,959cc
+engine: V6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,930mm
+height: 1,790mm
+width: 1,920mm
+wheelbase: 2,895mm
+
+[차량 125]
+CAR_NAME: EV6
+CAR_PRICE: 4,870~6,230만원
+CAR_FUEL: 전기
+mileage: 복합 4.6~5.6km/kWh 도심 5.1~6.4, 고속 4~4.9
+power: 125~239kW 모터 168~320hp (단순환산치)
+torque: 350~605Nm 모터 35.7~61.7kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD, RR
+transmission: 자동1단
+length: 4,680~4,695mm
+height: 1,550mm
+width: 1,880~1,890mm
+wheelbase: 2,900mm
+
+[차량 126]
+CAR_NAME: EV9
+CAR_PRICE: 7,337~8,397만원
+CAR_FUEL: 전기
+mileage: 복합 3.8~4.2km/kWh 도심 4.1~4.7, 고속 3.3~3.6
+power: 150~283kW 모터 201~379hp (단순환산치)
+torque: 350~700Nm 모터 35.7~71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 5,010~5,015mm
+height: 1,755~1,780mm
+width: 1,980mm
+wheelbase: 3,100mm
+
+[차량 127]
+CAR_NAME: EV4
+CAR_PRICE: 
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 128]
+CAR_NAME: G70
+CAR_PRICE: 4,476~4,723만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.1~10.9km/ℓ 도심 9.1~9.7, 고속 11.7~12.7
+power: 304hp 엔진
+torque: 43kg.m 엔진
+displacement: 2,497cc
+engine: I4 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,685mm
+height: 1,400mm
+width: 1,850mm
+wheelbase: 2,835mm
+
+[차량 129]
+CAR_NAME: G80
+CAR_PRICE: 5,801~6,741만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.3~10.6km/ℓ 도심 7.2~9, 고속 10.1~13.5
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,005mm
+height: 1,465mm
+width: 1,925mm
+wheelbase: 3,010mm
+
+[차량 130]
+CAR_NAME: G90
+CAR_PRICE: 9,397~13,657만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.2~9.3km/ℓ 도심 7.1~8, 고속 10~11.5
+power: 380~415hp 엔진
+torque: 54~56kg.m 엔진
+displacement: 3,470cc
+engine: V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,275mm
+height: 1,490mm
+width: 1,930mm
+wheelbase: 3,180mm
+
+[차량 131]
+CAR_NAME: GV70
+CAR_PRICE: 5,298~6,148만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.5~10.2km/ℓ 도심 7.5~8.9, 고속 10.2~12.5
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,715mm
+height: 1,630mm
+width: 1,910mm
+wheelbase: 2,875mm
+
+[차량 132]
+CAR_NAME: GV80
+CAR_PRICE: 6,840~9,717만원
+CAR_FUEL: 가솔린
+mileage: 복합 7.7~9.3km/ℓ 도심 6.8~8.2, 고속 9.2~11
+power: 304~380hp 엔진
+torque: 43~54kg.m 엔진
+displacement: 2,497~3,470cc
+engine: I4, V6 트윈터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,940mm
+height: 1,715mm
+width: 1,975mm
+wheelbase: 2,955mm
+
+[차량 133]
+CAR_NAME: GV60
+CAR_PRICE: 6,433~7,343만원
+CAR_FUEL: 전기
+mileage: 복합 4.1~5.1km/kWh 도심 4.3~5.7, 고속 3.8~4.5
+power: 168~360kW 모터 225~482hp (단순환산치)
+torque: 350~700Nm 모터 35.7~71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,515mm
+height: 1,580mm
+width: 1,890mm
+wheelbase: 2,900mm
+
+[차량 134]
+CAR_NAME: G80 EV
+CAR_PRICE: 8,468만원
+CAR_FUEL: 전기
+mileage: 복합 4.4km/kWh 도심 4.6, 고속 4.3
+power: 272kW 모터 364hp (단순환산치)
+torque: 700Nm 모터 71.4kg.m (단순환산치)
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,135mm
+height: 1,480mm
+width: 1,925mm
+wheelbase: 3,140mm
+
+[차량 135]
+CAR_NAME: 스파크
+CAR_PRICE: 977~1,487만원
+CAR_FUEL: 가솔린
+mileage: 복합 14.4~15km/ℓ 도심 13.4~14.3, 고속 16~16.1
+power: 75hp 엔진
+torque: 9.7kg.m 엔진
+displacement: 999cc
+engine: l3 자연흡기
+drive: FF
+transmission: 수동5단, CVT
+length: 3,595mm
+height: 1,485mm
+width: 1,595mm
+wheelbase: 2,385mm
+
+[차량 136]
+CAR_NAME: 말리부
+CAR_PRICE: 2,364~3,338만원
+CAR_FUEL: 가솔린
+mileage: 복합 10.5~14.2km/ℓ 도심 9.1~12.8, 고속 13~16.2
+power: 156~253hp 엔진
+torque: 24.1~36kg.m 엔진
+displacement: 1,341~1,998cc
+engine: I3, l4 싱글터보
+drive: FF
+transmission: 자동6단, CVT
+length: 4,935mm
+height: 1,465mm
+width: 1,855mm
+wheelbase: 2,830mm
+
+[차량 137]
+CAR_NAME: 트레일블레이저
+CAR_PRICE: 2,799~3,339만원
+CAR_FUEL: 가솔린
+mileage: 복합 11.6~12.9km/ℓ 도심 10.7~12.1, 고속 12.7~14
+power: 156hp 엔진
+torque: 24.1kg.m 엔진
+displacement: 1,341cc
+engine: I3 싱글터보
+drive: FF, AWD
+transmission: 자동9단, CVT
+length: 4,410~4,425mm
+height: 1,660~1,670mm
+width: 1,810mm
+wheelbase: 2,640mm
+
+[차량 138]
+CAR_NAME: 이쿼녹스
+CAR_PRICE: 
+CAR_FUEL: 가솔린
+mileage: 복합 도심 , 고속
+power: 175hp 엔진
+torque: 25.5~28kg.m 엔진
+displacement: 1,490cc
+engine: I4 싱글터보
+drive: AWD, FF
+transmission: 자동8단, CVT
+length: 4,653mm
+height: 1,667mm
+width: 1,902mm
+wheelbase: 2,730mm
+
+[차량 139]
+CAR_NAME: 트래버스
+CAR_PRICE: 5,640~6,615만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.3km/ℓ 도심 7.1, 고속 10.3
+power: 310hp 엔진
+torque: 36.8kg.m 엔진
+displacement: 3,564cc
+engine: V6 자연흡기
+drive: AWD
+transmission: 자동9단
+length: 5,230mm
+height: 1,780mm
+width: 2,000mm
+wheelbase: 3,073mm
+
+[차량 140]
+CAR_NAME: 타호
+CAR_PRICE: 
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 도심 , 고속
+power: 305~420hp 엔진
+torque: 53~68.4kg.m 엔진
+displacement: 2,997~6,198cc
+engine: I6, V8 자연흡기
+drive: 4WD, FR
+transmission: 자동10단
+length: 5,351mm
+height: 1,927mm
+width: 2,058mm
+wheelbase: 3,071mm
+
+[차량 141]
+CAR_NAME: 콜로라도
+CAR_PRICE: 7,279만원
+CAR_FUEL: 가솔린
+mileage: 복합 8.1km/ℓ 도심 7.5, 고속 9.1
+power: 314hp 엔진
+torque: 54kg.m 엔진
+displacement: 2,726cc
+engine: I4 싱글터보
+drive: 4WD
+transmission: 자동8단
+length: 5,410mm
+height: 1,810mm
+width: 1,905mm
+wheelbase: 3,337mm
+
+[차량 142]
+CAR_NAME: 실버라도
+CAR_PRICE: 39,900~105,000달러 내차시세
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 375~495kW 모터
+torque: 
+displacement: 
+engine: 
+drive: 
+transmission: 
+length: 
+height: 
+width: 
+wheelbase: 
+
+[차량 143]
+CAR_NAME: SM6
+CAR_PRICE: 2,797~3,639만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.5~13.6km/ℓ 도심 8.5~12.1, 고속 11~16
+power: 140~225hp 엔진
+torque: 19.7~30.6kg.m 엔진
+displacement: 1,332~1,998cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT, DCT7단
+length: 4,855mm
+height: 1,460mm
+width: 1,870mm
+wheelbase: 2,810mm
+
+[차량 144]
+CAR_NAME: QM6
+CAR_PRICE: 2,565~3,049만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.6~11.6km/ℓ 도심 7.7~10.6, 고속 9.9~13.1
+power: 140~144hp 엔진
+torque: 19.7~20.4kg.m 엔진
+displacement: 1,997~1,998cc
+engine: I4 자연흡기
+drive: FF
+transmission: CVT
+length: 4,675mm
+height: 1,680~1,700mm
+width: 1,845mm
+wheelbase: 2,705mm
+
+[차량 145]
+CAR_NAME: XM3
+CAR_PRICE: 2,235~2,864만원
+CAR_FUEL: 가솔린
+mileage: 복합 13.2~13.8km/ℓ 도심 11.8~12.3, 고속 15.3~16.3
+power: 123~152hp 엔진
+torque: 15.8~26kg.m 엔진
+displacement: 1,332~1,598cc
+engine: I4 싱글터보
+drive: FF
+transmission: CVT, DCT7단
+length: 4,570mm
+height: 1,570mm
+width: 1,820mm
+wheelbase: 2,720mm
+
+[차량 146]
+CAR_NAME: 메간 E-Tech
+CAR_PRICE: 64,990호주달러
+CAR_FUEL: 전기
+mileage: 복합 도심 , 고속
+power: 160kW 모터 214hp (단순환산치)
+torque: 300Nm 모터 30.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,210mm
+height: 1,500mm
+width: 1,770mm
+wheelbase: 2,700mm
+
+[차량 147]
+CAR_NAME: 티볼리
+CAR_PRICE: 1,898~3,139만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 9.4~12km/ℓ 도심 10.8, 고속 13.8
+power: 126~163hp 엔진
+torque: 15.8~26.5kg.m 엔진
+displacement: 1,497~1,597cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동6단
+length: 4,225mm
+height: 1,615~1,620mm
+width: 1,810mm
+wheelbase: 2,600mm
+
+[차량 148]
+CAR_NAME: 코란도
+CAR_PRICE: 4,028~4,544만원
+CAR_FUEL: 전기
+mileage: 복합 4.8km/kWh 도심 5.2, 고속 4.3
+power: 152.2kW 모터 204hp (단순환산치)
+torque: 339Nm 모터 34.6kg.m (단순환산치)
+displacement: 
+engine: 
+drive: FF
+transmission: 자동1단
+length: 4,465mm
+height: 1,640mm
+width: 1,870mm
+wheelbase: 2,675mm
+
+[차량 149]
+CAR_NAME: 렉스턴
+CAR_PRICE: 3,953~5,967만원
+CAR_FUEL: 디젤
+mileage: 복합 10.6~11.1km/ℓ 도심 9.3~9.9, 고속 12.7~13.1
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동8단
+length: 4,850mm
+height: 1,825mm
+width: 1,960mm
+wheelbase: 2,865mm
+
+[차량 150]
+CAR_NAME: 토레스
+CAR_PRICE: 2,666~3,714만원
+CAR_FUEL: LPG, 가솔린
+mileage: 복합 8.9~11.2km/ℓ 도심 10.2, 고속 12.5
+power: 165~170hp 엔진
+torque: 27.3~28.6kg.m 엔진
+displacement: 1,497cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: 자동6단
+length: 4,705mm
+height: 1,720mm
+width: 1,890mm
+wheelbase: 2,680mm
+
+[차량 151]
+CAR_NAME: 렉스턴 스포츠
+CAR_PRICE: 2,879~4,031만원
+CAR_FUEL: 디젤
+mileage: 복합 10.4km/ℓ 도심 9.4~9.7, 고속 11.3~11.8
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동6단
+length: 5,095~5,105mm
+height: 1,870mm
+width: 1,950mm
+wheelbase: 3,100mm
+
+[차량 152]
+CAR_NAME: 렉스턴 스포츠 칸
+CAR_PRICE: 3,104~4,246만원
+CAR_FUEL: 디젤
+mileage: 복합 10.2~10.3km/ℓ 도심 9.4~9.6, 고속 11~11.6
+power: 202hp 엔진
+torque: 45kg.m 엔진
+displacement: 2,157cc
+engine: I4 싱글터보
+drive: FR, 4WD
+transmission: 자동6단
+length: 5,415mm
+height: 1,885mm
+width: 1,950mm
+wheelbase: 3,210mm
+
+[차량 153]
+CAR_NAME: 모델 3
+CAR_PRICE: 5,199~6,939만원
+CAR_FUEL: 전기
+mileage: 복합 4.8~5.7km/kWh 도심 6, 고속 5.3
+power: 208~366kW 모터 279~490hp (단순환산치)
+torque: 420~740Nm 모터 42.8~75.5kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,720mm
+height: 1,431~1,440mm
+width: 1,933~1,935mm
+wheelbase: 2,875mm
+
+[차량 154]
+CAR_NAME: 모델 S
+CAR_PRICE: 11,525~12,554만원
+CAR_FUEL: 전기
+mileage: 복합 4.1~4.8km/kWh 도심 4.2~5, 고속 4~4.6
+power: 500~760kW 모터 670~1,018hp (단순환산치)
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,021mm
+height: 1,431mm
+width: 1,987mm
+wheelbase: 2,960mm
+
+[차량 155]
+CAR_NAME: 모델 Y
+CAR_PRICE: 5,299~7,199만원
+CAR_FUEL: 전기
+mileage: 복합 4.9~5.1km/kWh 도심 5.1~5.3, 고속 4.6~4.8
+power: 220~336kW 모터 295~450hp (단순환산치)
+torque: 420~637Nm 모터 42.8~65.0kg.m (단순환산치)
+displacement: 
+engine: 
+drive: RR, AWD
+transmission: 자동1단
+length: 4,750mm
+height: 1,625mm
+width: 1,920~1,980mm
+wheelbase: 2,890mm
+
+[차량 156]
+CAR_NAME: 모델 X
+CAR_PRICE: 12,875~14,135만원
+CAR_FUEL: 전기
+mileage: 복합 3.8~4.2km/kWh 도심 3.9~4.4, 고속 3.7~4.1
+power: 500~760kW 모터 670~1,018hp (단순환산치)
+torque: 
+displacement: 
+engine: 
+drive: AWD
+transmission: 자동1단
+length: 5,050mm
+height: 1,625mm
+width: 2,000mm
+wheelbase: 2,965mm
+
+[차량 157]
+CAR_NAME: 3시리즈
+CAR_PRICE: 5,700~8,480만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.4~15km/ℓ 도심 9.1~13.8, 고속 12.6~16.9
+power: 184~387hp 엔진
+torque: 30.6~51kg.m 엔진
+displacement: 1,995~2,998cc
+engine: I4, I6 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 4,715mm
+height: 1,435~1,440mm
+width: 1,825mm
+wheelbase: 2,850mm
+
+[차량 158]
+CAR_NAME: 5시리즈
+CAR_PRICE: 6,950~9,250만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 11.1~14.7km/ℓ 도심 9.9~13.5, 고속 13~16.5
+power: 190~258hp 엔진
+torque: 31.6~40.8kg.m 엔진
+displacement: 1,995~1,998cc
+engine: I4 싱글터보
+drive: FR, AWD
+transmission: 자동8단
+length: 5,060mm
+height: 1,515mm
+width: 1,900mm
+wheelbase: 2,995mm
+
+[차량 159]
+CAR_NAME: 7시리즈
+CAR_PRICE: 14,730~17,490만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.4~12.5km/ℓ 도심 9.2~11, 고속 11.9~15.2
+power: 299~381hp 엔진
+torque: 55.1~68.3kg.m 엔진
+displacement: 2,993~2,998cc
+engine: I6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 5,390mm
+height: 1,545mm
+width: 1,950mm
+wheelbase: 3,215mm
+
+[차량 160]
+CAR_NAME: X1
+CAR_PRICE: 5,890~7,210만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 10.2~14.6km/ℓ 도심 8.9~13.4, 고속 12.2~16.5
+power: 150~317hp 엔진
+torque: 30.6~40.7kg.m 엔진
+displacement: 1,995~1,998cc
+engine: I4 싱글터보
+drive: FF, AWD
+transmission: DCT7단
+length: 4,500~4,505mm
+height: 1,620~1,640mm
+width: 1,835mm
+wheelbase: 2,690mm
+
+[차량 161]
+CAR_NAME: X3
+CAR_PRICE: 7,000~9,890만원
+CAR_FUEL: 가솔린, 디젤
+mileage: 복합 9.2~12.2km/ℓ 도심 8.1~11, 고속 10.9~14.1
+power: 184~387hp 엔진
+torque: 29.5~51kg.m 엔진
+displacement: 1,995~2,998cc
+engine: I4, I6 싱글터보
+drive: AWD
+transmission: 자동8단
+length: 4,710~4,715mm
+height: 1,675mm
+width: 1,890mm
+wheelbase: 2,865mm
+
