@@ -6,6 +6,11 @@
 - 김도연, 김영서, 김정훈, 이재혁
 - 멤버 개인 깃허브 계정과 연동
 
+-|이재혁| DB 테이블 작성 , Team DATA 관리, PROJECT ISSUES DEVELOP |팀장| [@ohdyo](https://github.com/ohdyo) |
+  |김도연| python code 작성, DATA crowling, REDME 관리  |팀원| [@doyeon158]((https://github.com/doyeon158) |
+  |김영서| python code 작성, MYSQL 데이터 베이스 관리, REDME 관리|팀원| [@youngseo98](https://github.com/youngseo98) |
+  |김정훈| python code 작성, WBS 관리 |팀원| [@Zayden0815](https://github.com/Zayden0815) |
+
 ---
 
 # 2. 프로젝트 개요
@@ -32,7 +37,7 @@
 
 # 3. 기술 스택
 
-🛠Backend Framework & Language
+- 🛠Backend Framework & Language
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   
 - 💾 Database
@@ -47,31 +52,22 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 -
 
-🛠 Backend Framework & Language
-Python:
-이 프로젝트의 주요 언어로 사용되었습니다.
-간결하고 읽기 쉬운 문법을 통해 빠른 개발이 가능하며, 데이터 처리 및 웹 페이지 생성하여 구현하였습니다.
-
-💾 Database
-MySQL:
-구조화된 데이터 저장 및 관리에 사용된 관계형 데이터베이스입니다.
-데이터 무결성과 효율성을 제공하며, 대규모 트랜잭션 처리 및 분석에 적합합니다.
-Python의 MySQL Connector 라이브러리를 통해 쉽게 연동하였습니다.
 
 
-기술 스택 설명
-🛠 Backend Framework & Language
+
+-기술 스택 설명
+-🛠 Backend Framework & Language
 Python: 
 이 프로젝트의 주요 언어로 사용되었습니다.
 간결하고 읽기 쉬운 문법을 통해 빠른 개발이 가능하며, 데이터 처리 및 웹 애플리케이션 개발에 활용하였습니다.
 
-💾 Database
+-💾 Database
 MySQL: 
 구조화된 데이터 저장 및 관리에 사용된 관계형 데이터베이스입니다.
 데이터 무결성과 효율성을 제공하며, 대규모 트랜잭션 처리 및 분석에 적합하여 활용하였습니다.
 Python의 MySQL Connector 라이브러리를 통해 쉽게 연동하였습니다.
 
-⚙️ Development Tools
+-⚙️ Development Tools
 GitHub: 
 프로젝트의 코드 버전 관리 및 협업을 위해 사용되었습니다.
 코드 변경 사항을 기록하고 팀원들과 협력하여 효율적으로 개발할 수 있습니다.
