@@ -157,7 +157,6 @@ Python, MySQL, Git 통합을 위한 다양한 확장 기능을 지원합니다.
 <div>
   <img width=50% height=50% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/image.png"/>
 </div>
----
 
 
 
@@ -166,7 +165,8 @@ Python, MySQL, Git 통합을 위한 다양한 확장 기능을 지원합니다.
     - 대분류 조건 제시
     	<div>
       		<img width=50% height=50% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EB%8C%80%EB%B6%84%EB%A5%98%20%ED%95%84%ED%84%B0.png"/>
-	</div
+	</div>
+ 
 1-2. 소분류 필터 조건 제시
     - 대분류에서 선택된 필터에 대한 소분류 필터 항목 제시 & 결과값 출력
 <div>
