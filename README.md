@@ -28,7 +28,10 @@
 - **GitHub:** [@doyeon158](https://github.com/doyeon158)
 
 ### 김영서
-![Profile](https://github.com/youngseo98/profile.jpg)
+<div>
+  <img width=20% height=20% src="https://github.com/youngseo98/test/blob/main/%EC%9D%B4%EC%83%81%ED%95%B4%EC%94%A8.jpg?raw=true">
+</div>
+
 - **Role:** 팀원
 - **Responsibilities:**
   - python code 작성
@@ -38,8 +41,9 @@
 
 ### 김정훈
 <div>
-  <img width=20% height=20% src="https://raw.githubusercontent.com/Zayden0815/test/refs/heads/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-08%20120553.png">
+  <img width=20% height=20% src="https://raw.githubusercontent.com/Zayden0815/test/refs/heads/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-08%20120553.png"/>
 </div>
+
 
 - **Role:** 팀원
 - **Responsibilities:**
