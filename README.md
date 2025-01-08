@@ -7,7 +7,7 @@
 ## Team Members
 ### 이재혁
 <div>
-  <img width=20% height=20% align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/main/images/%EB%98%90%EB%98%90.jpg">
+  <img width=20% height=20% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/main/images/%EB%98%90%EB%98%90.jpg">
 </div>
 - **Role:** 팀장
 - **Responsibilities:**
