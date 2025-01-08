@@ -19,7 +19,11 @@
 - **GitHub:** [@ohdyo](https://github.com/ohdyo)
 
 ### 김도연
-![Profile](https://github.com/doyeon158/profile.jpg)
+<div>
+  <img width=20% height=20% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/main/images/OIP.jpg">
+</div>
+
+
 - **Role:** 팀원
 - **Responsibilities:**
   - python code 작성
