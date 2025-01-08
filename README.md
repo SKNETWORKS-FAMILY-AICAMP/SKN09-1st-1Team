@@ -80,7 +80,8 @@
 
 1-2. 소분류 필터 조건 제시
     - 대분류에서 선택된 필터에 대한 소분류 필터 항목 제시 & 결과값 출력
-      <img align=lef src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B02.png"/>
+<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B01.png"/>
+<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B02.png"/>
 
 ---
 
