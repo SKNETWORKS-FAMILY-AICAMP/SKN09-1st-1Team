@@ -20,9 +20,19 @@ df = df.loc[:, ~df.columns.get_level_values(1).str.contains('계')]
 df = df.loc[:, ~df.columns.get_level_values(0).str.contains('총계')]
 df = df.loc[df['시군구'].values != '계']
 
-print(df)
+# DB에서 이미 존재하는 월 데이터 가져오기
+cur.execute('SELECT month_year FROM car_monthly')
+existing_months = {row[0] for row in cur.fetchall()}  # 이미 존재하는 월 데이터를 집합으로 저장
+
+# 중복 제거된 데이터만 처리
+filtered_df = df[~df.iloc[:, 0].isin(existing_months)]  # 첫 번째 열(년월)이 DB에 없는 경우만 필터링
+
+# 필터링 결과 출력 (디버깅용)
+print(f"필터링된 데이터 개수: {len(filtered_df)}")
+print(filtered_df)
+
 # 엑셀 데이터 처리
-for index, row in df.iterrows():
+for index, row in filtered_df.iterrows():
     # 월별 테이블에 해당 월 데이터가 있는지 확인
     cur.execute(
         'select monthly_id from car_monthly where month_year = %s',
