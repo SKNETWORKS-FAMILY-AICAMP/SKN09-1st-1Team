@@ -165,7 +165,7 @@ if st.button("검색"):
     # 결과 출력
     if results:
         df = pd.DataFrame(results, columns=["월", "시도명", "시군구", "차량유형", "사용유형", "차량수"])
-        st.dataframe(df)
+        st.dataframe(df, use_container_width=True)
     else:
         st.write("검색 결과가 없습니다.")
 

@@ -1,3 +1,4 @@
+#ctrl+A 하고 주석 제거 하면 다시 페이지생성됨됨
 import streamlit as st
 import pymysql
 import pandas as pd
