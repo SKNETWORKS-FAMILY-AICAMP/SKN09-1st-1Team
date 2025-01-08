@@ -139,9 +139,9 @@
 - 개요 	
 	- KIA 기업의 자동차 관련 FAQ를 조회하여 소비자들의 니즈를 해결한다. 
 - 요구사항내역  
-	-소비자가 가지고 있는 문제를 쉽게 찾게 하기 위해서 키워드 선택 박스를 이용하여 빠르게 니즈에 맞는 질문을 찾게 한다.
-	-필요성 : FAQ 라는 이름에 맞게 많은 사람들이 찾게되는 질문이므로 궁금한 내용을 빨리 해소할 수 있게 해야 하기 때문이다.
-	-전체 질문들은 게시판 형태로 나타나게 하고 키워드 선택시 게시판에 원하는 질문이 나타나게끔 하고 질문을선택했을 때 답변이 나오도록 한다. 				      
+	- 소비자가 가지고 있는 문제를 쉽게 찾게 하기 위해서 키워드 선택 박스를 이용하여 빠르게 니즈에 맞는 질문을 찾게 한다.
+	- 필요성 : FAQ 라는 이름에 맞게 많은 사람들이 찾게되는 질문이므로 궁금한 내용을 빨리 해소할 수 있게 해야 하기 때문이다.
+	- 전체 질문들은 게시판 형태로 나타나게 하고 키워드 선택시 게시판에 원하는 질문이 나타나게끔 하고 질문을선택했을 때 답변이 나오도록 한다. 				      
 ---
 
 # 6. ERD
@@ -164,8 +164,15 @@
   <img width=50% height=50% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B01.png"/>
   <img width=50% height=50% src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B02.png"/>
 </div>
+
 ---
 
+2-1 KIA_FAQ 전체 게시판에서 질문 선택 후 답변 확인
+<div><img width=50% height=50% src="https://github.com/youngseo98/test/blob/main/qweqwe.png?raw=true"></div>
+2-2 SIDE_BAR의 하단에 키워드 선택 후 키워드 제시 
+<div><img width=50% height=50% src="https://github.com/youngseo98/test/blob/main/2-2.png?raw=true"></div>
+2-3 키워드 선택, 질문 확인 및 선택 후 답변 확인	
+<div><img width=50% height=50% src="https://github.com/youngseo98/test/blob/main/2-3.png?raw=true"></div>
 
 
 # 8. 한 줄 회고
