@@ -88,12 +88,12 @@ for idx, faq in enumerate(faq_results):
     print("-" * 40)
 
 
-# --- 3) 결과를 파일에 저장 ---
-with open("faq_data.txt", "w", encoding="utf-8") as file:
-    for idx, info in enumerate(faq_results, start=1):
-        file.write(f"[질문 {idx}]\n질문: {info['question']}\n답변: {info['answer']}\n\n")
+# # --- 3) 결과를 파일에 저장 ---
+# with open("faq_data.txt", "w", encoding="utf-8") as file:
+#     for idx, info in enumerate(faq_results, start=1):
+#         file.write(f"[질문 {idx}]\n질문: {info['question']}\n답변: {info['answer']}\n\n")
 
-print("FAQ 데이터가 성공적으로 스크랩되어 데이터베이스와 텍스트 파일에 저장되었습니다.")
+# print("FAQ 데이터가 성공적으로 스크랩되어 데이터베이스와 텍스트 파일에 저장되었습니다.")
 
 driver.quit()
 cursor.close()
