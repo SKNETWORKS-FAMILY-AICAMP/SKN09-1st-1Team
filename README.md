@@ -6,7 +6,7 @@
 
 ## Team Members
 ### 이재혁
-![Profile](https://github.com/ohdyo/profile.jpg)
+<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/main/images/%EB%98%90%EB%98%90.jpg">
 - **Role:** 팀장
 - **Responsibilities:**
   - DB 테이블 작성
