@@ -38,7 +38,7 @@
 
 ### 김정훈
 <div>
-  <img width=20% height=20% src="https://avatars.githubusercontent.com/u/192183238?s=400&v=4">
+  <img width=20% height=20% src="https://raw.githubusercontent.com/Zayden0815/test/refs/heads/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-08%20120553.png">
 </div>
 
 - **Role:** 팀원
