@@ -1,14 +1,11 @@
 # SKN09-1st-1Team
 
 # 1. 팀 소개
-
 - 팀 명 : 재혁아해조
-- 김도연, 김영서, 김정훈, 이재혁
-- 멤버 개인 깃허브 계정과 연동
-- 
-# Team Members
+- 프로젝트 : 자동차등록조회 & 기업FAQ
 
-## 이재혁
+## Team Members
+### 이재혁
 ![Profile](https://github.com/ohdyo/profile.jpg)
 - **Role:** 팀장
 - **Responsibilities:**
@@ -17,7 +14,7 @@
   - PROJECT ISSUES DEVELOP
 - **GitHub:** [@ohdyo](https://github.com/ohdyo)
 
-## 김도연
+### 김도연
 ![Profile](https://github.com/doyeon158/profile.jpg)
 - **Role:** 팀원
 - **Responsibilities:**
@@ -26,7 +23,7 @@
   - REDME 관리
 - **GitHub:** [@doyeon158](https://github.com/doyeon158)
 
-## 김영서
+### 김영서
 ![Profile](https://github.com/youngseo98/profile.jpg)
 - **Role:** 팀원
 - **Responsibilities:**
@@ -35,7 +32,7 @@
   - REDME 관리
 - **GitHub:** [@youngseo98](https://github.com/youngseo98)
 
-## 김정훈
+### 김정훈
 ![Profile](https://github.com/Zayden0815/profile.jpg)
 - **Role:** 팀원
 - **Responsibilities:**
