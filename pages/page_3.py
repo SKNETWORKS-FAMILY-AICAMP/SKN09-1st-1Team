@@ -8,9 +8,9 @@ import pymysql
 def load_faq_data():
     connection = pymysql.connect(
         host='localhost',
-        user='root',
-        password='1234',
-        db='questiondb',
+        user='squirrel',
+        password='squirrel',
+        db='cardb',
         charset='utf8mb4'
     )
     query = "SELECT id, question, answer FROM faq_kia"

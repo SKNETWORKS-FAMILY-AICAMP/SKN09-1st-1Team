@@ -7,9 +7,9 @@ import pymysql
 # --- 1) MySQL 데이터베이스 연결 ---
 connection = pymysql.connect(
     host='localhost',
-    user='root',
-    password='1234',
-    db='questiondb',
+    user='squirrel',
+    password='squirrel',
+    db='cardb',
     charset='utf8mb4'
 )
 cursor = connection.cursor()
