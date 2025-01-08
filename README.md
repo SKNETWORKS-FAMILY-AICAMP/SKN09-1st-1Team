@@ -161,7 +161,7 @@ Python, MySQL, Git 통합을 위한 다양한 확장 기능을 지원합니다.
 
 
 
-# 7. 수행결과(시연 페이지)
+** # 7. 수행결과(시연 페이지) **
 1-1. 자동차 조회 시작 페이지
     - 대분류 조건 제시
       <img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EB%8C%80%EB%B6%84%EB%A5%98%20%ED%95%84%ED%84%B0.png"/>
