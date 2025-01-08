@@ -9,7 +9,7 @@
 # Team Members
 
 ## 이재혁
-<img align=left src="https://github.com/ohdyo/profile.jpg"/>
+![Profile](https://github.com/ohdyo/profile.jpg)
 - **Role:** 팀장
 - **Responsibilities:**
   - DB 테이블 작성
