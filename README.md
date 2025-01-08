@@ -136,15 +136,29 @@ Python, MySQL, Git 통합을 위한 다양한 확장 기능을 지원합니다.
 
 # 5. 요구사항 명세서
 
-- ** 스크래핑해서 DB에 저장한것 ERD 구조 필요
+- 업무 영역
+  - 지역, 목적별 자동차 등록 대수 조회 서비스
+- 사용자
+  - 공용
+- 요구사항명
+  - 조건별 자동차 등록 조회
+- 개요
+  - 주어진 조건에서 사용자의 요구에 맞게 조회 가능 시스템 구축
+- 요구사항 내역 
+	- 원하는 목적의 카테고리에 맞게 옵션을 준다.
+	- 구체적인 검색을 위해 대분류와 소분류를 통해서 옵션을 제공한다.
+	- 옵션 별 다중 선택을 가능하게 하여 여러번 검색의 피로를 없앤다.
+		- 만약 지역 옵션을 선택시 해당 도시에 없는 시군구가 옵션으로 보여지는걸 회피하기 위해서 도시에서 선택된 요소로만 시군구 리스트를 보여준다.
+	- 최종적으로 원하는 데이터를 차트 형식으로 보여준다.
 
 ---
 
 # 6. ERD
-
-<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/image.png"/>
-
+<div>
+  <img width=50% height=50% align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/image.png"/>
+</div>
 ---
+
 
 # 7. 수행결과(시연 페이지)
 1-1. 자동차 조회 시작 페이지
@@ -153,10 +167,12 @@ Python, MySQL, Git 통합을 위한 다양한 확장 기능을 지원합니다.
 
 1-2. 소분류 필터 조건 제시
     - 대분류에서 선택된 필터에 대한 소분류 필터 항목 제시 & 결과값 출력
-<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B01.png"/>
-<img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B02.png"/>
-
+<div>
+  <img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B01.png"/>
+  <img align=left src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-1Team/blob/feature/jaehyeok/images/%EC%86%8C%EB%B6%84%EB%A5%98%ED%95%84%ED%84%B02.png"/>
+</div>
 ---
+
 
 # 9. 한 줄 회고
 
